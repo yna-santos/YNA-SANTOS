@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 🎈
 
-<!--
-**yna-santos/YNA-SANTOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- meu nome é Ynaily Naiane 
 
-Here are some ideas to get you started:
+- estou estudando na plataforma Alura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou me desenvolvendo nas linguagens Java Script, HTML e CSS.
+
+- utilizo este espaço para minha organização e compatilhamento dos meus projetos.
+
+### Você pode entrar em contato comigo 📫
+
+ynaily.santos@escola.pr.gov.br
+
+![](https://media.tenor.com/1HVZNgKCaasAAAAC/ragdoll-diana.gif)
+
